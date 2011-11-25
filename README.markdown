@@ -1,4 +1,4 @@
 # Ruby on Rials Turorial: First Application
 
-This is blah, blah, blah.
+This is new blah, blah, blah.
 
